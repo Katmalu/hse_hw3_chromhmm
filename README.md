@@ -30,8 +30,8 @@ emission | overlap
 3|  |  H3K79me2 | интроны |
 4|  | - | ген |
 5|  |  H3K36me3 | ген (без CpG островков) |
-6|  |  H3K9me3 | ядерная ламина (не попадает на гены) |
-7|  | - | ядерная ламина (не попадает на гены) |
-8|  |  H2AFZ | ядерная ламина (не попадает на гены) |
+6| Heterochromatin low signal |  H3K9me3 | ядерная ламина (не попадает на гены) |
+7| Heterochromatin low signal | - | ядерная ламина (не попадает на гены) | ![image](https://user-images.githubusercontent.com/103137801/230795253-9bd9682e-26d3-44fd-8751-1c687109f12a.png)
+8| Heterochromatin low signal |  H2AFZ | ядерная ламина (не попадает на гены) | ![image](https://user-images.githubusercontent.com/103137801/230795255-e65a03e4-e5f0-4541-9350-c88296a7a745.png)
 9|  |  H3K4me1 | разное чаще всего ген или места конца транскрипции|
 10|  |  H3K27me3 | разное чаще всего места конца транскрипции|
