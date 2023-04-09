@@ -25,13 +25,13 @@ emission | overlap
 
 Номер | Имя | Гистонные модификации | Расположение | Пример
 ---|---|---|---|---
-1| Promoter |  H3K9ac, H3K4me3 | CpG островки, экзоны, места начала транскрипции | ![image](https://user-images.githubusercontent.com/103137801/230794242-8879c10b-6a41-4fc2-bdde-e3695bf72028.png)
+1| Strong Promoter |  H3K9ac, H3K4me3 | CpG островки, экзоны, места начала транскрипции | ![image](https://user-images.githubusercontent.com/103137801/230794242-8879c10b-6a41-4fc2-bdde-e3695bf72028.png)
 2|  |  H3K9ac, H3K4me3, H3K79me2 | разное | 
 3| Weak transcribed |  H3K79me2 | интроны | ![image](https://user-images.githubusercontent.com/103137801/230795404-36003e76-1bc1-4693-9a4a-25ee1d27be28.png)
 4| Weak transcribed | - | ген (чаще интроны) |![image](https://user-images.githubusercontent.com/103137801/230795410-70662dc9-15a6-4890-a430-1eba5f71ac25.png)
 5|  |  H3K36me3 | ген (без CpG островков) |
-6| Heterochromatin low signal |  H3K9me3 | ядерная ламина (не попадает на гены) |
+6| Heterochromatin low signal |  H3K9me3 | ядерная ламина (не попадает на гены) | ![image](https://user-images.githubusercontent.com/103137801/230795558-db2bc0c2-b893-440f-8538-6cd5bf596f5e.png)
 7| Heterochromatin low signal | - | ядерная ламина (не попадает на гены) | ![image](https://user-images.githubusercontent.com/103137801/230795253-9bd9682e-26d3-44fd-8751-1c687109f12a.png)
 8| Heterochromatin low signal |  H2AFZ | ядерная ламина (не попадает на гены) | ![image](https://user-images.githubusercontent.com/103137801/230795255-e65a03e4-e5f0-4541-9350-c88296a7a745.png)
-9|  |  H3K4me1 | разное чаще всего ген или места конца транскрипции|
+9| Weak/poised enhancer |  H3K4me1 | разное чаще всего ген или места конца транскрипции | ![image](https://user-images.githubusercontent.com/103137801/230795561-d394d302-c3bb-422f-83bb-4cd01f0e0522.png)
 10|  |  H3K27me3 | разное чаще всего места конца транскрипции|
