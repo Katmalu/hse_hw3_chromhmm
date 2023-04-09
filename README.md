@@ -23,3 +23,16 @@ emission | overlap
 ![H1_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/103137801/230792934-f92f1b17-c978-4dbd-9bdf-29f92fb8256c.png) | ![H1_10_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/103137801/230793029-76296a70-2641-43a9-82af-15fa51f30241.png) | ![transitions_10](https://user-images.githubusercontent.com/103137801/230793038-2cf3457a-f9db-4b7b-9ff0-8570a8fd236e.png)
 
 
+Номер | Имя | Гистонные модификации | Расположение | Пример
+---|---|---|---|---
+1|  |  H3K9ac, H3K4me3 |
+2|  |  H3K9ac, H3K4me3, H3K79me2 |
+3|  |  H3K79me2 |
+4|  | - |
+5|  |  H3K36me3 |
+6|  |  H3K9me3
+7|  | - | 
+8|  |  H2AFZ |
+9|  |  H3K4me1 |
+10|  |  H3K27me3 |
+
