@@ -27,8 +27,8 @@ emission | overlap
 ---|---|---|---|---
 1| Promoter |  H3K9ac, H3K4me3 | CpG островки, экзоны, места начала транскрипции | ![image](https://user-images.githubusercontent.com/103137801/230794242-8879c10b-6a41-4fc2-bdde-e3695bf72028.png)
 2|  |  H3K9ac, H3K4me3, H3K79me2 | разное | 
-3|  |  H3K79me2 | интроны |
-4|  | - | ген |
+3| Weak transcribed |  H3K79me2 | интроны | ![image](https://user-images.githubusercontent.com/103137801/230795404-36003e76-1bc1-4693-9a4a-25ee1d27be28.png)
+4| Weak transcribed | - | ген (чаще интроны) |![image](https://user-images.githubusercontent.com/103137801/230795410-70662dc9-15a6-4890-a430-1eba5f71ac25.png)
 5|  |  H3K36me3 | ген (без CpG островков) |
 6| Heterochromatin low signal |  H3K9me3 | ядерная ламина (не попадает на гены) |
 7| Heterochromatin low signal | - | ядерная ламина (не попадает на гены) | ![image](https://user-images.githubusercontent.com/103137801/230795253-9bd9682e-26d3-44fd-8751-1c687109f12a.png)
