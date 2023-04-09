@@ -18,14 +18,14 @@ emission | overlap
 ---|---
 ![emissions_10](https://user-images.githubusercontent.com/103137801/230792911-fcf6812a-8a7e-4373-a292-7d326e4af139.png) | ![H1_10_overlap](https://user-images.githubusercontent.com/103137801/230792921-17275109-b657-4d90-9d9c-12a84fd68523.png) 
 
- neiborhood1 | neiborhood2 | transition
+ neiborhoodTES | neiborhoodTSS | transition
 ---|---|---
 ![H1_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/103137801/230792934-f92f1b17-c978-4dbd-9bdf-29f92fb8256c.png) | ![H1_10_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/103137801/230793029-76296a70-2641-43a9-82af-15fa51f30241.png) | ![transitions_10](https://user-images.githubusercontent.com/103137801/230793038-2cf3457a-f9db-4b7b-9ff0-8570a8fd236e.png)
 
 
 Номер | Имя | Гистонные модификации | Расположение | Пример
 ---|---|---|---|---
-1|  |  H3K9ac, H3K4me3 | CpG островки, экзоны, места начала транскрипции | ![image](https://user-images.githubusercontent.com/103137801/230794242-8879c10b-6a41-4fc2-bdde-e3695bf72028.png)
+1| Promoter |  H3K9ac, H3K4me3 | CpG островки, экзоны, места начала транскрипции | ![image](https://user-images.githubusercontent.com/103137801/230794242-8879c10b-6a41-4fc2-bdde-e3695bf72028.png)
 2|  |  H3K9ac, H3K4me3, H3K79me2 | места начала транскрипции |
 3|  |  H3K79me2 | интроны |
 4|  | - | ген |
