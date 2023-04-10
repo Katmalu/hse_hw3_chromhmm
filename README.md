@@ -36,3 +36,5 @@ emission | overlap
 9| Weak enhancer |  H3K4me1 | разное чаще всего ген или места конца транскрипции | ![image](https://user-images.githubusercontent.com/103137801/230795561-d394d302-c3bb-422f-83bb-4cd01f0e0522.png)
 10| Repressed |  H3K27me3 | разное чаще всего места конца транскрипции| ![image](https://user-images.githubusercontent.com/103137801/230950411-e784268c-5dcc-4817-9339-f3d1b1d50545.png)
 
+Результат бонуса
+![image](https://user-images.githubusercontent.com/103137801/230958568-da7a0c2c-7430-4c6c-9fef-e312ff7612dd.png)
